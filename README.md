@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something awsome 🥰**
 
-- 🌱 I’m currently learning **C# 😎**
+- 🌱 I’m currently learning **PYTHON 😎**
 
 - 💬 Ask me about **anything 🤣**
 
