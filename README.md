@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something awsome 🥰**
 
-- 🌱 I’m currently learning **PYTHON 😎**
+- 🌱 I’m currently learning **NodeJS 😎**
 
 - 💬 Ask me about **anything 🤣**
 
