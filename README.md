@@ -40,4 +40,5 @@
 
 <a href="https://www.paypal.me/quangminh06"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal"/>
 </a>
+[![wakatime](https://wakatime.com/badge/user/9f4900c0-ca57-44b5-a4dc-6545ae68a5c9.svg)](https://wakatime.com/@9f4900c0-ca57-44b5-a4dc-6545ae68a5c9?style=social)
 
