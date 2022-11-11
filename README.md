@@ -30,13 +30,13 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealstromez" alt="therealstromez" /></a> </p>-->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=therealstromez&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=therealstromez&count_private=true&show_icons=true&include_all_commits=true&theme=react)
   
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=therealstromez&theme=tokyonight)
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=therealstromez&theme=react)
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=therealstromez&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=therealstromez&count_private=true&show_icons=true&locale=en&layout=compact&theme=react)
   
-![therealstromez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=therealstromez&theme=tokyonight)
+![therealstromez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=therealstromez&layuout=compact&theme=react)
 
 <a href="https://www.paypal.me/quangminh06"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal"/>
 </a>
