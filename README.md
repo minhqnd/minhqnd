@@ -1,3 +1,4 @@
+![dino](./img/dino.gif)
 # Hi 👋, I'm Quang Minh
 ### A Freelancer developer from VietNam
 
