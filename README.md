@@ -2,7 +2,7 @@
   <img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif">
 </p>
 <!-- ![dino](./img/dino.gif) -->
-![](https://hit.yhype.me/github/profile?user_id=76775477)
+
 # Hi 👋, I'm Quang Minh
 ### A Freelancer developer from VietNam
 
@@ -16,6 +16,7 @@
 
 - 📫 How to reach me **zemorts@gmail.com**
 
+![](https://hit.yhype.me/github/profile?user_id=76775477)
 
 ## Connect with me 👀
 <!--<p align="left">
