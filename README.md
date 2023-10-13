@@ -26,8 +26,8 @@
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="99.hoangtran" height="30" width="40" /></a>
 </p>-->
 
-<a href="https://fb.com/quangminhnd" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="https://linkedin.com/in/minhquangnd" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://fb.com/minhqund" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+<a href="https://linkedin.com/in/minhqnd" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 
 ## Languages and Tools 🛠
@@ -36,13 +36,13 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangminhnd" alt="quangminhnd" /></a> </p>-->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=quangminhnd&count_private=true&show_icons=true&include_all_commits=true&theme=react)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=minhqnd&count_private=true&show_icons=true&include_all_commits=true&theme=react)
   
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=quangminhnd&theme=react)
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=minhqnd&theme=react)
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=quangminhnd&count_private=true&show_icons=true&locale=en&layout=compact&theme=react)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=minhqnd&count_private=true&show_icons=true&locale=en&layout=compact&theme=react)
   
-![quangminhnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangminhnd&layuout=compact&theme=react)
+![quangminhnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhqnd&layuout=compact&theme=react)
 
 <a href="https://www.paypal.me/quangminh06"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal"/>
 </a>
