@@ -1,6 +1,6 @@
-![dino](./img/dino.gif)
-# Hi 👋
+# @minhqnd 👋
 <!--<p align="center">
+![dino](./img/dino.gif)
   <img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif">
 </p> 
 
@@ -39,13 +39,19 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangminhnd" alt="quangminhnd" /></a> </p>
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=minhqnd&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 -->
-  
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=minhqnd&theme=react)
+![stats](https://wakatime.com/share/@minhqnd/b92b444e-94a1-4ce0-b7c0-3a24cfbf6685.svg)
+![another stats](https://wakatime.com/share/@minhqnd/ee4ab592-d8ea-4781-bc61-ed9826ca0804.svg)
+![another another stats](https://wakatime.com/share/@minhqnd/948df8d7-f332-481d-9f80-64f759651b07.svg)
+
+
+<!--![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=minhqnd&theme=react)
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=minhqnd&count_private=true&show_icons=true&locale=en&layout=compact&theme=react)
-  
 ![quangminhnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhqnd&layuout=compact&theme=react)
+  -->
 
 <a href="https://www.paypal.me/quangminh06"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal"/>
 </a>
+
+
 [![wakatime](https://wakatime.com/badge/user/9f4900c0-ca57-44b5-a4dc-6545ae68a5c9.svg)](https://wakatime.com/@9f4900c0-ca57-44b5-a4dc-6545ae68a5c9?style=social)
